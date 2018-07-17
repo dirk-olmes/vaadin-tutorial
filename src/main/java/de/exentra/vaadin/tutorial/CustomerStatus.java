@@ -1,4 +1,4 @@
-package com.example.test;
+package de.exentra.vaadin.tutorial;
 
 //@Helper
 public enum CustomerStatus
